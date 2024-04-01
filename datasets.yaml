@@ -1,0 +1,52 @@
+- name: "ARGO"
+  url: "https://argo.ucsd.edu/"
+  desc: "Global array of profiling floats measuring temperature, salinity, and currents."
+  categories: ["ocean", "temperature", "salinity", "currents"]
+  biodiversity: false
+  size: "10TB"
+  license: "CC BY 4.0"
+  owner: "UCSD"
+  detail: "1km, 1 month"
+  coverage: "global, 2000-present"
+  formats: ["NetCDF"]
+  doi: "https://doi.org/10.13155/29825"
+  access: "public"
+
+- name: "BGC-ARGO"
+
+- name: "GLODAP"
+  url: "https://www.glodap.info/"
+
+- name: "HYCOM"
+  url: "https://www.hycom.org/"
+  desc: "Global ocean circulation model."
+  categories: ["ocean", "currents"]
+  biodiversity: false
+
+- name: "NOMAD"
+
+- name: "seaBASS"
+
+- name: "World Ocean Data Base"
+
+- name: "NASA Ocean Color"
+  url: "https://oceancolor.gsfc.nasa.gov/"
+
+- name: "MPA Atlas"
+  url: "https://www.mpatlas.org/"
+
+- name: "ARGOS"
+  url: "https://www.noaasis.noaa.gov/POLAR/ARGOS/argos.html"
+  desc: "NOAA's database for Marine Telemetry, tracking marine animals like sharks."
+
+- name: "Sea Around Us"
+  url: "https://www.seaaroundus.org/data/#/eez"
+  desc: "Historical data on global marine fisheries catches, both reported and unreported, from 1950 to the present."
+
+- name: "CMEMS/Copernicus"
+  url: "https://marine.copernicus.eu/"
+
+- name: "Global Biodiversity Information Facility (GBIF)"
+  url: "https://www.gbif.org/"
+  desc: "An international network providing access to data about all types of life on Earth."
+  biodiversity: true
