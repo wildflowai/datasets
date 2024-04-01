@@ -44,4 +44,4 @@ Our mission is to **enable comprehensive understanding of nature** and **align h
 
 - **Community Channels**: Got questions? Want to discuss ideas? Join our community on [Discord](http://discord.wildflow.ai) and [WhatsApp](http://whatsapp.wildflow.ai). Drop by and say hello! 🤗
 
-- **Spread the Word**: Think we're doing something great? Leave the project a star ⭐ here at the [top of the page☝️](#start-of-content)
+- **Spread the Word**: Please leave the project a star ⭐ here at the [top of the page☝️](#start-of-content) if you think we're doing helpful things!
